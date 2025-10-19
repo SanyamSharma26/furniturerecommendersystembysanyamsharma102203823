@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+pinecone-client
+langchain
+huggingface-hub
+pydantic
+pandas
+joblib
+torch
+torchvision
+faiss-cpu
+transformers
+ftfy
+gdown
