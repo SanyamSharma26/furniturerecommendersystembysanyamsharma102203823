@@ -1,0 +1,3 @@
+uniq_id,title,brand,description,price,categories,images,manufacturer,package_dimensions,country_of_origin,material,color,image_path,label
+s1,Modern Sofa,BrandA,Comfortable modern sofa,299.99,sofa|livingroom,https://via.placeholder.com/600,MakerA,100x80x40,India,leather,brown,images/sofa1.jpg,0
+s2,Wooden Chair,BrandB,Classic wooden chair,49.99,chair|dining,https://via.placeholder.com/600,MakerB,40x40x90,India,wood,natural,images/chair1.jpg,1
