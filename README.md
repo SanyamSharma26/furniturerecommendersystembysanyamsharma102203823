@@ -45,4 +45,7 @@ npm run dev
 
 - **CV Training**: `backend/models/train_resnet.py` (PyTorch)
 - **CLIP Image Embedding**: `backend/models/clip_embed.py`
-- **Text Embedding/Upsert**: `backend/scripts/upsert_from_csv.py`
+- **Text Embedding/Upsert**: `backend/scripts/upsert_from_csv.py` 
+
+## Deployed Link 
+**https://furniturerecommendersystembysanyamsharma102203823.vercel.app/**
